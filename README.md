@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Danang Hapis Fadillah</h1>
-<h3 align="center">A Fullstack Developer and Mobile App Developer (Coming soon) from Indonesia 🇮🇩</h3>
+<h3 align="center">A Fullstack Developer and ML Enthusiast from Indonesia 🇮🇩</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syncr0nate&label=Profile%20views&color=0e75b6&style=flat" alt="syncr0nate" /> </p>
 
 - 🔭 I’m currently working on [Slicing Hoo Bank](modernhoobank.vercel.app)
 
-- 🌱 I’m currently learning **React Native and MongoDB**
+- 🌱 I’m currently learning **Machine Learning and MongoDB**
 
 - 👯 I’m looking to collaborate on **Hacktoberfest 2022**
 
